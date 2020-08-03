@@ -36,5 +36,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://vgodogg.com"
+  "homepage": "skins2go.org"
 }
